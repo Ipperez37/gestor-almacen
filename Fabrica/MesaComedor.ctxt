@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MesaComedor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MesaComedor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=al\ an\ l\ c\ tablero\ nombre
+comment1.target=MesaComedor(int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=void\ SetDatos()
+comment11.params=
+comment11.target=void\ SetActualizarDatos()
+comment2.params=al\ an\ l\ c\ tablero\ nombre\ cristal
+comment2.target=MesaComedor(int,\ int,\ int,\ int,\ int,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=double\ calcularPrecioFinal()
+comment4.params=
+comment4.target=void\ ListarPrecioFinal()
+comment5.params=cristal
+comment5.target=void\ setCristal(boolean)
+comment6.params=
+comment6.target=boolean\ getCristal()
+comment7.params=Nombre
+comment7.target=void\ setNombre(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getNombre()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=12

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Personas
+comment0.text=\r\n\ Abstract\ class\ Personas\ -\ write\ a\ description\ of\ the\ class\ here\r\n\ \r\n\ @author\:\ \r\n\ Date\:\ \r\n
+comment1.params=
+comment1.target=Personas()
+comment10.params=
+comment10.target=void\ SetDarDeAlta()
+comment11.params=
+comment11.target=void\ SetActualizadorDatos()
+comment2.params=nombre\ correo\ ciudad
+comment2.target=Personas(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=nombre
+comment3.target=void\ setNombres(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombres()
+comment5.params=ciudad
+comment5.target=void\ setCiudades(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getCiudades()
+comment7.params=correo
+comment7.target=void\ setCorreos(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getCorreos()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=12

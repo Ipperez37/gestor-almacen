@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SillaPlegable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SillaPlegable\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=al\ an\ l\ c\ nombre\ patas\ muelles
+comment1.target=SillaPlegable(int,\ int,\ int,\ int,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=void\ SetActualizarDatos()
+comment2.params=muelles
+comment2.target=void\ setMuelles(int)
+comment3.params=
+comment3.target=int\ getMuelles()
+comment4.params=
+comment4.target=double\ calcularPrecioFinal()
+comment5.params=
+comment5.target=void\ ListarPrecioFinal()
+comment6.params=Nombre
+comment6.target=void\ setNombre(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getNombre()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=void\ SetDatos()
+numComments=11

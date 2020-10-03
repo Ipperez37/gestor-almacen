@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Mesa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mesa\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=al\ an\ l\ c\ nombre
+comment1.target=Mesa(int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=al\ an\ l\ c\ tTablero\ nombre
+comment2.target=Mesa(int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=double\ calcularPrecioFinal()
+comment4.params=
+comment4.target=void\ ListarCaracteristicas()
+comment5.params=tablero
+comment5.target=void\ setTablero(int)
+comment6.params=
+comment6.target=int\ getTablero()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ SetDatos()
+comment9.params=
+comment9.target=void\ SetActualizarDatos()
+numComments=10

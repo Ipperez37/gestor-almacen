@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Admin
+comment0.text=\r\n\ En\ est\u00E1\ interface\ se\ van\ a\ agregar\ todos\ los\r\n\ metodos\ comunes\ para\ las\ clases\ relacionadas\ con\ \r\n\ personas\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ SetDarDeAlta()
+comment2.params=
+comment2.target=void\ SetActualizadorDatos()
+numComments=3

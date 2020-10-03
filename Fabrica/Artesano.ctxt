@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Artesano
+comment0.text=\r\n\ Clase\ que\ define\ al\ artesano\ y\ sus\ metodos\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ correo\ ciudad\ edad\ A\u00F1osExperiencia
+comment1.target=Artesano(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=A\u00F1osExperiencia
+comment2.target=void\ setExperiencia(int)
+comment3.params=
+comment3.target=int\ getExperiencia()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=void\ SetDarDeAlta()
+comment6.params=
+comment6.target=void\ SetActualizadorDatos()
+numComments=7

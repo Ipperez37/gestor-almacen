@@ -1,0 +1,43 @@
+new MesaCafe;60;60;60;20;1;2;1;1;1
+new MesaCafe;70;60;60;20;1;3;1;1;1
+new MesaCafe;80;60;60;20;1;4;1;1;1
+
+public void cargarAlmacen(){
+    
+            // Instanciamos el fichero donde estan los datos
+            File fichero = new File("cargStockAlmacen.txt");
+            Scanner s = null;
+            
+            try {
+            	// Leemos el contenido del fichero
+            	fichero = new Scanner(fichero);
+            	// Obtengo los datos de los partidos de fútbol del fichero
+            	while (fichero.hasNextLine()){
+            		String linea = fichero.nextLine();	// Obtengo una linea del fichero (un partido de fútbol)
+            		String [] cortarString = linea.split(";");		// Obtengo los datos del partido de futbol
+            		Mueble mobiliario = new Mueble();	// Creo un objeto de la clase "PartidoFutbol"
+            
+            		// Pongo los atributos al objeto "partido"
+            		mobiliario.setEquipoLocal(cortarString[0]);
+            		mobiliario.setEquipoVisitante(cortarString[1]);
+            		mobiliario.setGolesLocal(Integer.parseInt(cortarString[2]));
+            		mobiliario.setGolesVisitante(Integer.parseInt(cortarString[3]));
+            
+            		// Añadimos el objeto "partido" al ArrayList
+            		muebles.add(mobiliario);
+            	}
+            
+            } catch (Exception e) {
+            	e.printStackTrace();
+            } finally{
+            	try {
+            		if (s != null)
+            			s.close();
+            	} catch (Exception e2) {
+            		e2.printStackTrace();
+            	}
+            }
+            
+            System.out.println("... Guardados "+partidos.size()+" partidos de fútbol  ...");
+                
+    }
