@@ -1,4 +1,4 @@
-Proyecto realizado integramente en Java y con el editor BlueJ. No se usan conexiones a base de datos, y solo se trabaja con estructuras de datos y el paradigma de orienteación a objetos.
+Proyecto realizado integramente en Java y con el editor BlueJ. No se usan conexiones a base de datos, y solo se trabaja con estructuras de datos y el paradigma de programación orienteación a objetos.
 
 El modelo de negocio pensado para esta aplicación, es la de una fábrica artesanal que fabrica muebles a medida y a petición del cliente. Tal y como se solicitaba en la descripción de la prueba, desde la aplicación se puede realizar las siguientes funciones:
 
